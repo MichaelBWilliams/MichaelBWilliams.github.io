@@ -12,13 +12,15 @@ body {
   margin: 20px;
   border-radius: 20px;
   border-style: solid;
-  border-color: ;
+  border-color: #white;
   display: flex;
-  align-items: center;
+  align-items: top;
   background-image: url('https://s3.amazonaws.com/geo-bias/geo-bias-homepage/GeoBiasJumbotron.jpg');
   background-size: cover;
   color: #fff;
   height: 500px;
   text-shadow: 0.25px 0.25px 0.25px #000000;
 }
-
+h3 {
+  align-items: center;
+}
