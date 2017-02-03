@@ -34,7 +34,7 @@ header p {
 .jumbotron {
   display: flex;
   align-items: center;
-  background-image: url('http://imaging.nikon.com/lineup/lens/zoom/normalzoom/af-s_dx_18-140mmf_35-56g_ed_vr/sample.htm');
+  background-image: url('https://s3.amazonaws.com/geo-bias/geo-bias-homepage/GeoBiasJumbotron.jpg');
   background-size: cover;
   color: #ffffff;
   height: 500px;
