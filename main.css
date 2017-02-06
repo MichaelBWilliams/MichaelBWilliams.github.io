@@ -10,17 +10,38 @@ body {
 
 .jumbotron {
   margin: 20px;
+  margin-bottom: 50px;
   border-radius: 20px;
   border-style: solid;
-  border-color: #white;
+  border-color: white;
   display: flex;
-  align-items: top;
+  align-items: center;
   background-image: url('https://s3.amazonaws.com/geo-bias/geo-bias-homepage/GeoBiasJumbotron.jpg');
   background-size: cover;
   color: #fff;
-  height: 500px;
-  text-shadow: 0.25px 0.25px 0.25px #000000;
+  height: 400px;
+  text-shadow: 2px 2px 2px #393939;
 }
-h3 {
-  align-items: center;
+
+
+.nav-home .col-sm-2 {
+  width: 50%;
+  text-align: center;
+}
+.nav-home h2 {
+  color: #fff;  
+}
+
+.img-circle {
+  border: 2px solid #6d6d6d;
+}
+
+.btn-default {
+  font-size: 20px;
+  font-weight: bold;
+}
+
+.footer {
+  margin: 30px;
+  color: #fff;
 }
