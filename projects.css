@@ -1,0 +1,14 @@
+body {
+  padding-top: 40px;
+  padding-bottom: 20px;
+  background-color: rgb(34, 34, 34);
+}
+
+.navbar {
+  margin-bottom: 20px;
+}
+
+.jumbotron {
+  margin: 20px;
+
+}
